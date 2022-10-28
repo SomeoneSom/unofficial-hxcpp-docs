@@ -13,10 +13,3 @@ Table Of Contents
    test123
    test2
    test3/index
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`

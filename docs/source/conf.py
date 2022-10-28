@@ -6,7 +6,7 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'hxcpp-unofficial-docs'
+project = 'unofficial-hxcpp-docs'
 copyright = '2022, atpx8'
 author = 'atpx8'
 release = ''
