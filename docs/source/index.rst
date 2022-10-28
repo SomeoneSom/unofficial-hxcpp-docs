@@ -3,12 +3,37 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
+Welcome to the unofficial hxcpp documentation!
+==============================================
+
 Table Of Contents
-=============================================
+-----------------
+uhh whatever
+
+.. toctree::
+   :maxdepth: 2
+   :hidden:
+   :caption: Softcoded (cpp.Lib.Load)
+
+   test123
+   test2
+   test3/index
 
 .. toctree::
    :maxdepth: 2
    :titlesonly:
+   :hidden: 
+   :caption: Hardcoded (Compiler Metadata)
+
+   test123
+   test2
+   test3/index
+
+.. toctree::
+   :maxdepth: 2
+   :titlesonly:
+   :hidden:
+   :caption: Misc.
 
    test123
    test2
