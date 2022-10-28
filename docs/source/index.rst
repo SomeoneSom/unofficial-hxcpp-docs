@@ -21,7 +21,6 @@ uhh whatever
 
 .. toctree::
    :maxdepth: 2
-   :titlesonly:
    :hidden: 
    :caption: Hardcoded (Compiler Metadata)
 
@@ -31,7 +30,6 @@ uhh whatever
 
 .. toctree::
    :maxdepth: 2
-   :titlesonly:
    :hidden:
    :caption: Misc.
 
