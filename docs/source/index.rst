@@ -13,7 +13,7 @@ Table Of Contents
 uhh whatever
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: -1
    :hidden:
    :caption: Softcoded (cpp.Lib.Load)
 
@@ -22,7 +22,7 @@ uhh whatever
    test3/index
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: -1
    :hidden: 
    :caption: Hardcoded (Compiler Metadata)
 
@@ -31,7 +31,7 @@ uhh whatever
    test3/index
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: -1
    :hidden:
    :caption: Misc.
 
