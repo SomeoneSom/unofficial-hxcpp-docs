@@ -1,9 +1,13 @@
+:tocdepth: 2
+
 test3
-=============================================
+=====
 
 i hjave shit
 
 .. toctree::
-   :maxdepth: 1
+   :hidden:
+   :maxdepth: -1
+   :caption: kill me
 
    test4
