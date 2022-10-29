@@ -17,9 +17,7 @@ uhh whatever
    :hidden:
    :caption: Softcoded (cpp.Lib.Load)
 
-   test123
-   test2
-   test3/index
+   softcoding/index
 
 .. toctree::
    :maxdepth: -1
@@ -27,14 +25,10 @@ uhh whatever
    :caption: Hardcoded (Compiler Metadata)
 
    test123
-   test2
-   test3/index
 
 .. toctree::
    :maxdepth: -1
    :hidden:
    :caption: Misc.
 
-   test123
    test2
-   test3/index
