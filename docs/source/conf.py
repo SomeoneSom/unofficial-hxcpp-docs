@@ -30,6 +30,3 @@ html_theme_options = {
     'collapse-navigation': False
 }
 html_static_path = ['_static']
-html_css_files = [
-    'css/rtd_dark.css',
-]
