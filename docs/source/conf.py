@@ -24,7 +24,10 @@ exclude_patterns = []
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
-html_theme = 'sphinx_rtd_theme'
+html_theme = 'sphinx-rtd-theme'
+html_css_files = [
+    'css/rtd_dark.css',
+]
 html_theme_options = {
     'navigation_depth': -1,
     'collapse-navigation': False
