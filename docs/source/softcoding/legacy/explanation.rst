@@ -65,6 +65,7 @@ The main thing that needs to be explained here are the lines with ``cpp.Lib.Load
         static var sum:Int->Int->Int = cpp.Lib.load("example", "sum", 2);
 
 First of all, You may be wondering what types like ``Int->Int->Int`` mean. These are function types.
-In this example code, ``Int->Int->Int`` means a function that takes two Ints and returns and Int, and ``Void->Void`` means a function that takes nothing and returns nothing. A function that would, for example, take a String and an Int, and return a Bool would be a `String->Int->Bool`.
+In this example code, ``Int->Int->Int`` means a function that takes two Ints and returns and Int, and ``Void->Void`` means a function that takes nothing and returns nothing.
+A function that would, for example, take a ``String`` and an ``Int``, and return a ``Bool`` would be a ``String->Int->Bool``.
 As for ``cpp.Lib.load`` itself, the first argument is the name of the NDLL file (without the file extension),
 the second argument is the name of the function you want to load, and the third argument is the number of arguments the loaded function takes.
