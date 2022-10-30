@@ -8,4 +8,6 @@ TODO
    :glob:
    :maxdepth: -1
 
-   *
+   example
+   explanation
+   value/index
