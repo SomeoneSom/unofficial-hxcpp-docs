@@ -17,7 +17,8 @@ uhh whatever
    :hidden:
    :caption: Softcoded (cpp.Lib.Load)
 
-   softcoding/index
+   softcoding/legacy/index
+   softcoding/prime/index
 
 .. toctree::
    :maxdepth: -1
