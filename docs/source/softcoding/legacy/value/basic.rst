@@ -4,7 +4,7 @@
 Basic Types
 ===========
 
-The basic value types in Haxe are ``Bool``, ``Int``, and ``Float``, which are represented in C++ as ``bool``, ``int``, and ``double`` respectively.
+The basic types in Haxe are ``Bool``, ``Int``, and ``Float``, which are represented in C++ as ``bool``, ``int``, and ``double`` respectively.
 ``null`` in both languages also fall in this category, though with slightly different functions.
 
 Encoding
