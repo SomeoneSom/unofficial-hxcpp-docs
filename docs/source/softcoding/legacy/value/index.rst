@@ -1,5 +1,5 @@
-The Value Type
-==============
+Full Value Function Documentation
+=================================
 
 The ``value`` type is what is used to tranfer C++ and Haxe data between the two languages.
 It must be decoded before being usable in C++, and encoded before being usable in Haxe.

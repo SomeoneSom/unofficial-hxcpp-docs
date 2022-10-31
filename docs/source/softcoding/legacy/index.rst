@@ -10,4 +10,7 @@ TODO
 
    example
    explanation
+   value
+   abstract
+   alloc
    value/index

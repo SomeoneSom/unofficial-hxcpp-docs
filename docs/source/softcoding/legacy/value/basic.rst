@@ -22,10 +22,6 @@ Encoding
 
     Creates an integer ``value`` object using ``i``.
 
-:cpp:`value alloc_int32(int i)`
-
-    Creates a 32-bit integer ``value`` object using ``i``.
-
 :cpp:`value alloc_float(double d)`
 
     Creates a floating point ``value`` object using ``d``.
